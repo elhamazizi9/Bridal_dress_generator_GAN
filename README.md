@@ -6,6 +6,7 @@ Up until today machine learning has shown to be capable of working properly in m
 
 Recently we have gathered some bridal dress which you can see in the link below:
 
+https://www.kaggle.com/elhamazizi/bridal-dress
 
 Here is the procedure in which our images were produced:
 
