@@ -12,8 +12,5 @@ Here is the procedure in which our images were produced:
 
 
 
-
-
-<a href="http://uupload.ir/" target="_blank"><img src="http://uupload.ir/files/3pcu_ezgif.com-gif-maker_(2).gif" border="0" alt="آپلود عکس" /></a>
-
+<a href="http://uupload.ir/" target="_blank"><img src="http://uupload.ir/files/8r1v_ezgif.com-gif-maker_(3).gif" border="0" alt="آپلود عکس" /></a>
 
