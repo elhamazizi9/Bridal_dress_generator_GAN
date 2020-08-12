@@ -7,4 +7,13 @@ Up until today machine learning has shown to be capable of working properly in m
 Recently I have gathered some bridal dress which you can see in link below:
 
 
+Here is the procedure in which our images were produced:
+
+
+
+
+
+
+<a href="http://uupload.ir/" target="_blank"><img src="http://uupload.ir/files/3pcu_ezgif.com-gif-maker_(2).gif" border="0" alt="آپلود عکس" /></a>
+
 
