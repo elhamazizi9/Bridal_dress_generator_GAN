@@ -17,7 +17,7 @@ Here is the procedure in which our images were produced:
 
 
 Samples:
-I am sure no one will wear these makeups :) but these dresses as well as the gestures were my favorite ones.
+I am sure no one will wear these makeups :) but these dresses as well as the gestures were the favorite ones.
 
 
 <a href="http://uupload.ir/view/4p2h_2.jpg" target="_blank"><img src="http://uupload.ir/files/4p2h_2_thumb.jpg" border="0" alt="آپلود عکس" /></a>
